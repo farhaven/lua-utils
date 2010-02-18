@@ -1,3 +1,5 @@
+require("strict")
+
 local ipairs = ipairs
 local pairs = pairs
 local type = type
